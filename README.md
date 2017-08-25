@@ -14,7 +14,7 @@ gulp -v
 ```bash
 mkdir proj-dir
 cd proj-dir
-git clone https://github.com/code-seed/seed-gulp-es6-babel.git
+git clone https://github.com/code-seed/seed-gulp-es6-babel.git .
 rm -rf .git
 yarn install
 gulp

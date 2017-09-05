@@ -1,5 +1,5 @@
 # seed-gulp-es6-babel
-`seed-gulp-es6-babel` Provides a `es6` `gulp` file using `gulp-babel`.
+`seed-gulp-es6-babel` provides a `es6` `gulp` file using `gulp-babel`.
 
 
 ## Install `gulp`

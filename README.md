@@ -1,5 +1,5 @@
 # seed-gulp-es6-babel
-Provides a `es6` `gulp` file using `gulp-babel`.
+`seed-gulp-es6-babel` Provides a `es6` `gulp` file using `gulp-babel`.
 
 
 ## Install `gulp`
@@ -60,5 +60,3 @@ gulp.task('default', gulp_sequence(['world', 'es6']));
 - [gulp-babel](https://www.npmjs.com/package/gulp-babel)
 - [gulp-sequence](https://www.npmjs.com/package/gulp-sequence)
 - [yarn](https://yarnpkg.com)
-
-## What
